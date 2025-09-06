@@ -6,7 +6,7 @@ using namespace std;
 int main() {
     ifstream file("questions.txt");
     if (!file) {
-        cout << "Error: Could not open questions.txt\n";
+        cerr << "Error: Could not open questions.txt\n";
         return 1;
     }
 
