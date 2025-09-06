@@ -1,16 +1,16 @@
-What is the capital of France?
-a) Paris
-b) London
-c) Berlin
-d) Rome
-a
+What is the capital of Nepal?
+a) Hatuda
+b) kathmandu
+c) jhalpa
+d) india
+b
 
-Which language is used for system programming?
+which word start from "p"?
 a) Python
 b) C++
 c) HTML
 d) CSS
-b
+a
 
 2 + 2 = ?
 a) 3
